@@ -20,7 +20,7 @@ Hızlı moda, mevsimsel talep değişimleri, stok riski ve teslimat süreleri di
 | Sektör ve Rekabet Analizi | Hızlı moda, sürdürülebilir üretim, çevrim içi satış ve rakip markalar |
 | Tüketici Beklentileri | Sürdürülebilirlik, çevrim içi alışveriş ve fiyat beklentileri |
 | Talep Tahmini | 2022–2024 verileri ve 2025 tahmini, mevsimsel bileşenli doğrusal ekstrapolasyon |
-| Kuruluş Yeri Seçimi | İzmir, Tanger, Łódź, Dhaka ve İstanbul alternatiflerinin karşılaştırılması |
+| Kuruluş Yeri Seçimi | İzmir, Tanger, Lodz, Dhaka ve İstanbul alternatiflerinin karşılaştırılması |
 | Maliyet Analizi | Sabit ve değişken maliyetler üzerinden başabaş noktası karşılaştırması |
 | Fabrika Yerleşimi | Mamule göre yerleşim yaklaşımı |
 | Materyal ve Mamul Tasarımı | Organik pamuk, geri dönüştürülmüş polyester ve kalite standartları |
